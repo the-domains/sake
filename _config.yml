@@ -1,0 +1,28 @@
+name: sake
+favicon: null
+layout_spectrum: 0.060999609529972076
+typography_spectrum: 0.5696555392351002
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.06907020113430917
+  lightness: 0.11559088854119182
+  saturation: 0.10994681296870112
+  rhythmicContrast: 0.9580976217985153
+purpose: []
