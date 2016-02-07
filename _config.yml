@@ -2,6 +2,7 @@ name: SAKE SUMO BLOG
 favicon: null
 layout_spectrum: 0.10847
 typography_spectrum: 0.62169
+title: 'SAKE SUMO BLOG '
 cta:
   domain: null
   bucket: null
