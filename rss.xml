@@ -4,7 +4,7 @@
         <description><![CDATA[SAKE SUMO BLOG ]]></description>
         <link>https://thegrid.ai/sake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 09:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 09:16:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sake/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sake]]></title>
@@ -14,10 +14,17 @@
             <pubDate>Sun, 07 Feb 2016 04:12:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[January in Japan]]></title>
+            <description><![CDATA[<article><h1>January in Japan</h1><p>This is an awesome video of life in Japan in the winter. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8652f08b3fc431f70b4b64e1996b67a29adec985.jpg"></article>]]></description>
+            <link>https://vimeo.com/87008050</link>
+            <guid isPermaLink="false">a6fbd2a0-2b3d-4698-80e9-a3a1bf6b30c6</guid>
+            <pubDate>Sun, 07 Feb 2016 09:16:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sake Sumo. Welcome to SAKE
 SUMO. ]]></title>
             <description><![CDATA[<article><h1>Sake Sumo. Welcome to SAKE
-SUMO. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ca27477b2a4cc48b041666acfb9dc97000173b4.jpg"></article>]]></description>
+SUMO. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f53a3e8eaec6f6290981cf720cf6e502f75105d.jpg"></article>]]></description>
             <link>https://thegrid.ai/sake/439dd360-f345-4c94-804f-e7e28bc10727/index.html</link>
             <guid isPermaLink="false">439dd360-f345-4c94-804f-e7e28bc10727</guid>
             <pubDate>Sun, 07 Feb 2016 09:11:29 GMT</pubDate>
