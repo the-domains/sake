@@ -4,11 +4,11 @@
         <description><![CDATA[SAKE SUMO BLOG ]]></description>
         <link>https://thegrid.ai/sake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 12:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 12:57:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sake/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WELCOME]]></title>
-            <description><![CDATA[<article><h1>WELCOME</h1><p>Welcome to the blog of SAKESUMO.COM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b44d0df7447d1f7984ff32c1dd69431b13cf054.png"></article>]]></description>
+            <description><![CDATA[<article><h1>WELCOME</h1><p>Welcome to the blog of SAKESUMO.COM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9be2d7a2d2f2b8f0c7d99cb195cb52898be9048d.png"></article>]]></description>
             <link>sakesumo.com</link>
             <guid isPermaLink="false">e35cae06-4e5e-45a6-9244-8e0868d1f241</guid>
             <pubDate>Sun, 07 Feb 2016 12:56:10 GMT</pubDate>
@@ -44,9 +44,9 @@
         <item>
             <title><![CDATA[January in Japan]]></title>
             <description><![CDATA[<article><h1>January in Japan</h1><p>This is an awesome video of life in Japan in the winter. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8652f08b3fc431f70b4b64e1996b67a29adec985.jpg"></article>]]></description>
-            <link>https://vimeo.com/87008050</link>
+            <link>https://thegrid.ai/sake/january-in-japan/index.html</link>
             <guid isPermaLink="false">a6fbd2a0-2b3d-4698-80e9-a3a1bf6b30c6</guid>
-            <pubDate>Sun, 07 Feb 2016 09:16:08 GMT</pubDate>
+            <pubDate>Sun, 07 Feb 2016 12:56:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
