@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://vimeo.com/87008050'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - tony-anderson-7054
   - inari
 description: "Wife and I went to Japan in January, it's a beautiful place and a beautiful culture. Music: Daughters by Tony Anderson."
-datePublished: '2016-02-07T09:16:08.403Z'
-dateModified: '2016-02-07T09:15:53.859Z'
+datePublished: '2016-02-07T12:56:30.758Z'
+dateModified: '2016-02-07T12:56:26.976Z'
 author:
   - name: Scott Gold
     url: 'http://vimeo.com/scottgold'
@@ -35,14 +34,15 @@ app_links:
     app_name: Vimeo
     package: com.vimeo.android.videoapp
 title: January in Japan
+sourcePath: _posts/2016-02-07-january-in-japan.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-02-07-january-in-japan.md
-published: true
+url: january-in-japan/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
