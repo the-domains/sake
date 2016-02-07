@@ -1,6 +1,6 @@
 name: SAKE SUMO BLOG
 favicon: null
-layout_spectrum: 0.25926
+layout_spectrum: 0
 typography_spectrum: 0.59877
 title: 'SAKE SUMO BLOG '
 cta:
@@ -22,7 +22,7 @@ color:
     - '#76b3be'
     - '#c80026'
     - '#d74863'
-  brandStrength: 0.625
+  brandStrength: 0.25
   lightness: 0.625
   saturation: 0.1875
   rhythmicContrast: 0.75
