@@ -1,7 +1,7 @@
-name: sake
+name: SAKE SUMO BLOG
 favicon: null
-layout_spectrum: 0.01499
-typography_spectrum: 0.5696555392351002
+layout_spectrum: 1
+typography_spectrum: 0.62169
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#76b3be'
     - '#c80026'
     - '#d74863'
-  brandStrength: 0.8125
-  lightness: 0.11559088854119182
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.10994681296870112
   rhythmicContrast: 0.9580976217985153
 purpose: []
