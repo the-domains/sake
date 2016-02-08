@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T06:33:47.218Z'
-dateModified: '2016-02-08T06:33:20.972Z'
+datePublished: '2016-02-08T06:44:02.981Z'
+dateModified: '2016-02-08T06:43:54.825Z'
 title: SPC Advanced Course
 author: []
+sourcePath: _posts/2016-02-08-spc-advanced-course.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-spc-advanced-course.md
-published: true
 url: spc-advanced-course/index.html
 _type: Article
 
