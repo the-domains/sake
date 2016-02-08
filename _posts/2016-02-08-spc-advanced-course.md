@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T06:49:02.106Z'
-dateModified: '2016-02-08T06:48:54.587Z'
+datePublished: '2016-02-08T06:54:23.827Z'
+dateModified: '2016-02-08T06:54:18.549Z'
 title: SPC Advanced Course
 author: []
 sourcePath: _posts/2016-02-08-spc-advanced-course.md
