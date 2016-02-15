@@ -3,26 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T12:47:06.907Z'
-dateModified: '2016-02-15T12:44:14.174Z'
+datePublished: '2016-02-15T13:04:59.493Z'
+dateModified: '2016-02-15T13:04:57.799Z'
 title: 'SPC Advanced Sake Course '
 author: []
+sourcePath: _posts/2016-02-15-spc-advanced-sake-course.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-spc-advanced-sake-course.md
-published: true
 url: spc-advanced-sake-course/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a0993fd-c7f9-4674-aff4-927a65f803d2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82230cd83d8b832106a4df44f8a00879c4951cbf.jpg)
 
 What a rollercoaster of a week. We came, we learned, we saw and we pretty much conquered. 
 
