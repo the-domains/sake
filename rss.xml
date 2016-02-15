@@ -4,7 +4,7 @@
         <description><![CDATA[SAKE SUMO BLOG ]]></description>
         <link>https://thegrid.ai/sake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 12:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 12:10:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sake/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WELCOME]]></title>
@@ -12,6 +12,13 @@
             <link>sakesumo.com</link>
             <guid isPermaLink="false">e35cae06-4e5e-45a6-9244-8e0868d1f241</guid>
             <pubDate>Sun, 07 Feb 2016 16:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SAKESUMO]]></title>
+            <description><![CDATA[<article><h1>SAKESUMO</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87ef11d1-a16c-4142-a5f8-c2737a05d6a2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sake/sakesumo/index.html</link>
+            <guid isPermaLink="false">1681326d-6f9b-4147-8901-55493b2f1e29</guid>
+            <pubDate>Mon, 15 Feb 2016 12:08:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[天ぷら割烹　なかじん]]></title>
