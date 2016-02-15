@@ -4,7 +4,7 @@
         <description><![CDATA[SAKE SUMO BLOG ]]></description>
         <link>https://thegrid.ai/sake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 12:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 12:47:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sake/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WELCOME]]></title>
@@ -12,6 +12,13 @@
             <link>sakesumo.com</link>
             <guid isPermaLink="false">e35cae06-4e5e-45a6-9244-8e0868d1f241</guid>
             <pubDate>Sun, 07 Feb 2016 16:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TENSEI]]></title>
+            <description><![CDATA[<article><h1>TENSEI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/620a527310e1e42b7570338a9d34f4f799da7c85.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sake/tensei/index.html</link>
+            <guid isPermaLink="false">133995f3-31a8-44eb-8e8c-6db8d11384aa</guid>
+            <pubDate>Mon, 15 Feb 2016 12:46:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MASUMI]]></title>
