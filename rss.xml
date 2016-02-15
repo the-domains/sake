@@ -2,23 +2,16 @@
     <channel>
         <title><![CDATA[SAKE SUMO BLOG ]]></title>
         <description><![CDATA[SAKE SUMO BLOG ]]></description>
-        <link>https://thegrid.ai/sake/</link>
+        <link>http://www.sakesumo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 05:51:34 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/sake/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 06:49:13 GMT</lastBuildDate>
+        <atom:link href="http://www.sakesumo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WELCOME]]></title>
             <description><![CDATA[<article><h1>WELCOME</h1><p>Welcome to the blog of SAKESUMO.COM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5689f96263930d721f1322764a41e891e8881012.png"></article>]]></description>
             <link>sakesumo.com</link>
             <guid isPermaLink="false">e35cae06-4e5e-45a6-9244-8e0868d1f241</guid>
             <pubDate>Sun, 07 Feb 2016 16:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SPC ADVANCED SAKE COURSE ]]></title>
-            <description><![CDATA[<article><h1>SPC ADVANCED SAKE COURSE </h1><p>Mt. Fuji aka Fuji-San - the view never gets old. It begins now really. On the train from Osaka to Tokyo ... It feels like it's already begun. Tonight we begin the looseness ... It's a catch up with the crew from last year ... We are off to a 1980's themed izakaya that has a great sake list. May the sake gods be with me. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/449bd7fc495e4d3f42fa9956460159fe67845bf3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/sake/spc-advanced-sake-course/index.html</link>
-            <guid isPermaLink="false">852bdef8-7eac-493f-82c8-66670b6ef196</guid>
-            <pubDate>Mon, 15 Feb 2016 05:51:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SAKE SUMO]]></title>
