@@ -4,7 +4,7 @@
         <description><![CDATA[SAKE SUMO BLOG ]]></description>
         <link>https://thegrid.ai/sake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 12:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 12:48:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sake/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WELCOME]]></title>
@@ -12,6 +12,13 @@
             <link>sakesumo.com</link>
             <guid isPermaLink="false">e35cae06-4e5e-45a6-9244-8e0868d1f241</guid>
             <pubDate>Sun, 07 Feb 2016 16:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIKUYOI]]></title>
+            <description><![CDATA[<article><h1>KIKUYOI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0be9ccc0a78552deed554ac1af1124fa0815ab4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sake/kikuyoi/index.html</link>
+            <guid isPermaLink="false">2eeab000-d91d-412a-920a-90b51218b698</guid>
+            <pubDate>Mon, 15 Feb 2016 12:46:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TENSEI]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[MASUMI]]></title>
-            <description><![CDATA[<article><h1>MASUMI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff75ddefc5e3260f022b754da02c3fcf11c2b591.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>MASUMI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47bbe7d15d73dd1faa32db5533ec067437dbe532.jpg"></article>]]></description>
             <link>https://thegrid.ai/sake/masumi/index.html</link>
             <guid isPermaLink="false">9cce24f6-2cea-421f-ab12-6674a724ebf7</guid>
             <pubDate>Mon, 15 Feb 2016 12:46:35 GMT</pubDate>
