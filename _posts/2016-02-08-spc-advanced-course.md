@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T06:54:23.827Z'
-dateModified: '2016-02-08T06:54:18.549Z'
+datePublished: '2016-02-15T05:42:27.786Z'
+dateModified: '2016-02-15T05:42:22.985Z'
 title: SPC Advanced Course
 author: []
 sourcePath: _posts/2016-02-08-spc-advanced-course.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: spc-advanced-course/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21c6a8f4-c1c3-4dc8-8d58-ddb1a7059ed7.jpg)
