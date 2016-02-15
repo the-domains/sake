@@ -4,7 +4,7 @@
         <description><![CDATA[SAKE SUMO BLOG ]]></description>
         <link>https://thegrid.ai/sake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 12:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 12:48:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sake/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WELCOME]]></title>
@@ -12,6 +12,13 @@
             <link>sakesumo.com</link>
             <guid isPermaLink="false">e35cae06-4e5e-45a6-9244-8e0868d1f241</guid>
             <pubDate>Sun, 07 Feb 2016 16:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SPC Advanced Sake Course ]]></title>
+            <description><![CDATA[<article><h1>SPC Advanced Sake Course </h1><p>What a rollercoaster of a week. We came, we learned, we saw and we pretty much conquered. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/265a3a430a094c0b16fabb947cdad16cf8473edd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sake/spc-advanced-sake-course/index.html</link>
+            <guid isPermaLink="false">9e9832d0-8645-4162-944c-0e29805fddc5</guid>
+            <pubDate>Mon, 15 Feb 2016 12:47:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIKUYOI]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[TENSEI]]></title>
-            <description><![CDATA[<article><h1>TENSEI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/620a527310e1e42b7570338a9d34f4f799da7c85.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>TENSEI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a18f466767170caf68a1ba84196fa715727ccc52.jpg"></article>]]></description>
             <link>https://thegrid.ai/sake/tensei/index.html</link>
             <guid isPermaLink="false">133995f3-31a8-44eb-8e8c-6db8d11384aa</guid>
             <pubDate>Mon, 15 Feb 2016 12:46:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=BvfFHeo4PL0</link>
             <guid isPermaLink="false">eb6a0c3d-7eae-4f6b-8812-2e7320a06c10</guid>
             <pubDate>Sun, 07 Feb 2016 13:46:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[January in Japan]]></title>
-            <description><![CDATA[<article><h1>January in Japan</h1><p>This is an awesome video of life in Japan in the winter. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8652f08b3fc431f70b4b64e1996b67a29adec985.jpg"></article>]]></description>
-            <link>https://vimeo.com/87008050</link>
-            <guid isPermaLink="false">a6fbd2a0-2b3d-4698-80e9-a3a1bf6b30c6</guid>
-            <pubDate>Sun, 07 Feb 2016 13:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
